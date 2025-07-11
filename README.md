@@ -59,3 +59,8 @@ Data Visualization Apps – Serve as a data source for dashboards or GUIs
 3. Replace "your_api_key" in the code with your actual key
 
 4. Compile and run the program using IDE or terminal
+
+
+#OUTPUT : 
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/94e850df-6b9c-425e-bc33-68cb4d8d9bb4" />
